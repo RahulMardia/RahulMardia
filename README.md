@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RahulMardia<br>👀 I’m interested in Web Development.<br>🌱 I’m currently learning Web Development.<br>💞️ I’m looking to collaborate on Web Development Projects.<br>📫 Reach me reach me at - rahulmardia999@gmail.com
+👋 Hi, I’m @RahulMardia<br>👀 I’m interested in Web Development.<br>🌱 I’m currently learning Web Development.<br>💞️ I’m looking to collaborate on Web Development Projects.<br>📫 Reach me at - rahulmardia999@gmail.com
 
 
 ## 🌐 Socials:
