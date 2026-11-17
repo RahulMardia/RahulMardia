@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm Rahul Mardia 👋
+# 💫 Hi there, I'm Rahul Mardia 👋 
 ### Software Developer &bull; Full-Stack & React Native Specialist &bull; AI / ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahulmardia.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rahulmardia.netlify.app)
